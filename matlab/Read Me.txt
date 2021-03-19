@@ -1,0 +1,11 @@
+1. There is an example to run the code in Demo.m;
+
+2. The details of the input parameters are intrduced in cal_cuboid_lbptop_vr.m. 
+
+3. If you use the codes, please cite the following:
+   @article{FLBPTOP_2016,
+       title    = {LBP-TOP: a Tensor Unfolding Revisit},
+       author   = {Xiaopeng Hong and Yingyue Xu and Guoying Zhao},
+       journal  = {ACCV Workshop on "Spontaneous Facial Behavior Analysis"},
+       year     = {2016}
+   }
